@@ -8,6 +8,7 @@ class SpringBootMvcsdpProjectApplicationTests {
 
 	@Test
 	void contextLoads() {
+		//test
 	}
 
 }
